@@ -4,7 +4,7 @@ Download the pretrained weights: [google drive](https://drive.google.com/file/d/
 
 EAO on VOT2018: 0.21
 
-
+If you find it useful, please cite the following papers:
 
 ```
 @inproceedings{Li2019SiamVGGVT,
