@@ -27,7 +27,7 @@ except AttributeError:
         return tensor
     torch._utils._rebuild_tensor_v2 = _rebuild_tensor_v2
 # load net
-net_file = '/home/lee/tracking/challenge-test/vot-toolkit/tracker/examples/SiamVGGRPN/code/SiamRPN0328checkpoint.pth.tar'
+net_file = './SiamRPNcheckpoint.pth.tar'
 
 net = SiamRPNBIG()
 net.load_state_dict(torch.load(net_file)['state_dict'])
