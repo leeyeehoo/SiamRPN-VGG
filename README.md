@@ -2,9 +2,9 @@
 Combination of siamrpn and VGG
 
 
-⋅⋅* VOT: VOT testing folder.
+* VOT: VOT testing folder.
 
-⋅⋅* train: training folder.
+* train: training folder.
 
 EAO on VOT2018: 0.21
 
