@@ -1,1 +1,1 @@
-Please follow the [instruction](https://github.com/leeyeehoo/SiamVGG/tree/master/train)
+Please follow the [instruction](https://github.com/leeyeehoo/SiamVGG/tree/master/train) train the model.
